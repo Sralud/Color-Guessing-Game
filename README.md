@@ -20,6 +20,6 @@ The Color Guessing Game is an interactive and educational program designed to te
 
 The Color Guessing Game is perfect for:
 
-- Design Students and Professionals: Improve color matching and hex code recognition.
-- Web Developers: Practice identifying hex codes for better front-end development.
-- Casual Users: Anyone who loves fun, interactive, and challenging games!
+- **Design Students and Professionals**: Improve color matching and hex code recognition.
+- **Web Developers**: Practice identifying hex codes for better front-end development.
+- **Casual Users**: Anyone who loves fun, interactive, and challenging games!
