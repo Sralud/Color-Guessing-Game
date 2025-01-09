@@ -9,3 +9,9 @@ The Color Guessing Game is an interactive and educational program designed to te
 - **Interactive GUI**: A visually appealing interface built using Java Swing, with dynamic feedback for correct and incorrect answers.
 - **Continuous Gameplay**: After each correct answer, the game moves to the next round, ensuring endless fun.
 - **Payment Flow**: Calculates the user’s change based on the payment method.
+
+## Benefits
+
+- **Educational**: A great tool for designers, developers, and students to practice and improve their understanding of RGB and hex color codes.
+- **Fun and Interactive**: Engages users with a simple yet addictive guessing game.
+- **Skill Development**: Helps users develop better color recognition skills, which can be valuable in design and web development.
