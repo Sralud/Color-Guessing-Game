@@ -15,3 +15,11 @@ The Color Guessing Game is an interactive and educational program designed to te
 - **Educational**: A great tool for designers, developers, and students to practice and improve their understanding of RGB and hex color codes.
 - **Fun and Interactive**: Engages users with a simple yet addictive guessing game.
 - **Skill Development**: Helps users develop better color recognition skills, which can be valuable in design and web development.
+
+## Who Is It For?
+
+The Color Guessing Game is perfect for:
+
+- Design Students and Professionals: Improve color matching and hex code recognition.
+- Web Developers: Practice identifying hex codes for better front-end development.
+- Casual Users: Anyone who loves fun, interactive, and challenging games!
